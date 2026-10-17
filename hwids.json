@@ -1,6 +1,9 @@
 {
   "enabled": true,
-  "ids": ["TW-66FFC-8F933-BDF82-A3B67"],
+  "ids": [
+    "TW-66FFC-8F933-BDF82-A3B67",
+    "TW-17E54-42F81-AECF0-DBFA4",
+  ],
   "deny": [],
   "note": "папочка"
-}
+}  
