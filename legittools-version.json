@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://github.com/SavelyMokrov/tinkwork-license/releases/download/legittools-v1.0.2/LegitTools-Setup-1.0.2.exe",
-  "notes": "Обратный отсчёт срока по обжалованию (24 часа) с продлением /extend, первая настройка из пяти шагов для нового компьютера"
+  "version": "1.0.3",
+  "url": "https://github.com/SavelyMokrov/tinkwork-license/releases/download/legittools-v1.0.3/LegitTools-Setup-1.0.3.exe",
+  "notes": "Заставка при запуске, проверка входа на сайт перед своим интерфейсом, упрощённые настройки, авто-открытие анидеска и авто-отключение выключены по умолчанию"
 }
