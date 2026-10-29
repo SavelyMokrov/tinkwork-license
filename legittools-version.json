@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/SavelyMokrov/tinkwork-license/releases/download/legittools-v1.0.3/LegitTools-Setup-1.0.3.exe",
-  "notes": "Заставка при запуске, проверка входа на сайт перед своим интерфейсом, упрощённые настройки, авто-открытие анидеска и авто-отключение выключены по умолчанию"
+  "version": "1.0.4",
+  "url": "https://github.com/SavelyMokrov/tinkwork-license/releases/download/legittools-v1.0.4/LegitTools-Setup-1.0.4.exe",
+  "notes": "Слежение за Dash на любой будущей смене, слежение только за будущими часами"
 }
